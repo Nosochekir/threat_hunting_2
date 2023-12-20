@@ -19,7 +19,7 @@ format:
 1.  ОС Windows 10
 2.  RStudio Desktop
 3.  Интерпретатор языка R 4.3.0
-4.  dplyr 1.1.2
+4.  dplyr 1.1.4
 
 ## План
 
