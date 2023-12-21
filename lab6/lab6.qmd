@@ -51,7 +51,7 @@ library(xml2)
 library(rvest)
 ```
 
-### Импорт и подготовка данных DNS
+### Импорт и подготовка данных 
 
 #### 1. Импортируйте данные в R. Датасет находится по адресу https://storage.yandexcloud.net/iamcth-data/dataset.tar.gz.
 
