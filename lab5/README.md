@@ -57,7 +57,7 @@ library(lubridate)
 
         date, intersect, setdiff, union
 
-### Импорт и подготовка данных DNS
+### Импорт и подготовка данных
 
 #### Импортируйте данные.
 
